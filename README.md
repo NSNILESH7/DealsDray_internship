@@ -20,8 +20,8 @@ The Employee Management System is a web-based application designed to simplify t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ecommerce-mern.git
-    cd ecommerce-mern
+    git clone https://github.com/NSNILESH7/DealsDray_internship.git
+    cd dealsdray
     ```
 
 2. Install dependencies:
