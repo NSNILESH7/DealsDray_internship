@@ -1,6 +1,6 @@
-Employee Management System (DealsDray)
+ ## Employee Management System (DealsDray)
 
-Introduction
+- Introduction
 The Employee Management System is a web-based application designed to simplify the management of employee data in an organization. This project was developed as part of my internship assignment and serves as a comprehensive solution to streamline operations related to employee records, roles, and performance tracking.
 
 
